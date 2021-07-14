@@ -3,7 +3,7 @@
 
 # Project demo link
 
-<a href="https://mithesh14.github.io/Checkout-page/">Edie Homepage</a>
+<a href="https://mithesh14.github.io/Edie-homepage/">Edie Homepage</a>
 
 # Screenshots 
 
