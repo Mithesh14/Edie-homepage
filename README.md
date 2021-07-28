@@ -37,11 +37,11 @@
 
 ### Desktop View
 
-<img src="https://github.com/Mithesh14/Edie-homepage/blob/main/images/screenshots/Desktop%20view.png" width="60%" height="80%" >
+<img src="https://github.com/Mithesh14/Edie-homepage/blob/main/images/screenshots/Desktop%20view.png" align="middle" width="60%" height="80%" >
 
 ### Mobile View
 
-<img src="https://github.com/Mithesh14/Edie-homepage/blob/main/images/screenshots/Mobile%20view.png" width="60%" height="50%" >
+<img src="https://github.com/Mithesh14/Edie-homepage/blob/main/images/screenshots/Mobile%20view.png" align="middle" width="60%" height="50%" >
 
 ### Built With
 
