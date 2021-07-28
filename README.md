@@ -1,34 +1,90 @@
-# Edie Homepage
-✏️ This is a simple responsive website-7 developed using HTML and CSS for dev challenges ❗
+<h1 align="center">{Portfolio-master}</h1>
 
-# Project demo link
+<div align="center">
+   Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
+</div>
 
-<a href="https://mithesh14.github.io/Edie-homepage/">Edie Homepage</a>
+<div align="center">
+  <h3>
+    <a href="https://github.com/Mithesh14/Edie-homepage">
+      Demo
+    </a>
+    <span> | </span>
+    <a href="https://mithesh14.github.io/Edie-homepage/">
+      Solution
+    </a>
+    <span> | </span>
+    <a href="https://devchallenges.io/challenges/5ZnOYsSXM24JWnCsNFlt">
+      Challenge
+    </a>
+  </h3>
+</div>
 
-# Screenshots 
+<!-- TABLE OF CONTENTS -->
 
-![screenshots](https://github.com/Mithesh14/Edie-homepage/blob/main/images/screenshots/image1.jpg)
+## Table of Contents
 
-![screenshots](https://github.com/Mithesh14/Edie-homepage/blob/main/images/screenshots/image2.jpg)
+- [Overview](#overview)
+  - [Built With](#built-with)
+- [Features](#features)
+- [How to use](#how-to-use)
+- [Contact](#contact)
+- [Acknowledgements](#acknowledgements)
 
-![screenshots](https://github.com/Mithesh14/Edie-homepage/blob/main/images/screenshots/image3.jpg)
+<!-- OVERVIEW -->
 
-![screenshots](https://github.com/Mithesh14/Edie-homepage/blob/main/images/screenshots/image4.jpg)
+## Overview
 
-![screenshots](https://github.com/Mithesh14/Edie-homepage/blob/main/images/screenshots/image5.jpg)
+### Desktop View
 
-![screenshots](https://github.com/Mithesh14/Edie-homepage/blob/main/images/screenshots/image6.jpg)
+![screenshot](https://github.com/Mithesh14/Edie-homepage/blob/main/images/screenshots/Desktop%20view.png)
 
-![screenshots](https://github.com/Mithesh14/Edie-homepage/blob/main/images/screenshots/image7.jpg)
+### Mobile View
 
-![screenshots](https://github.com/Mithesh14/Edie-homepage/blob/main/images/screenshots/image8.jpg)
+![screenshot](https://github.com/Mithesh14/Edie-homepage/blob/main/images/screenshots/Mobile%20view.png)
 
-![screenshots](https://github.com/Mithesh14/Edie-homepage/blob/main/images/screenshots/image9.jpg)
 
-![screenshots](https://github.com/Mithesh14/Edie-homepage/blob/main/images/screenshots/image10.jpg)
+### Built With
 
-![screenshots](https://github.com/Mithesh14/Edie-homepage/blob/main/images/screenshots/image11.jpg)
+<!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
-![screenshots](https://github.com/Mithesh14/Edie-homepage/blob/main/images/screenshots/image12.jpg)
+- [HTML](https://html.spec.whatwg.org/)
+- [CSS](https://www.w3c.fr/)
+
+## Features
+
+<!-- List the features of your application or follow the template. Don't share the figma file here :) -->
+
+This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/5ZnOYsSXM24JWnCsNFlt) was to build an application to complete the given user stories.
+
+## How To Use
+
+<!-- Example: -->
+
+To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
+
+```bash
+# Clone this repository
+$ git clone https://github.com/Mithesh14/Portfolio-master
+
+# Install dependencies
+$ npm install
+
+# Run the app
+$ npm start
+```
+
+## Acknowledgements
+
+<!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For example: -->
+
+- [Steps to replicate a design with only HTML and CSS](https://devchallenges-blogs.web.app/how-to-replicate-design/)
+- [Node.js](https://nodejs.org/)
+- [Marked - a markdown parser](https://github.com/chjj/marked)
+
+## Contact
+
+- Website [Mithesh](https://mithesh14.netlify.app/)
+- GitHub [@Mithesh14](https://github.com/Mithesh14)
 
 
