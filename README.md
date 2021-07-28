@@ -41,8 +41,7 @@
 
 ### Mobile View
 
-![screenshot](https://github.com/Mithesh14/Edie-homepage/blob/main/images/screenshots/Mobile%20view.png)
-
+<img src="https://github.com/Mithesh14/Edie-homepage/blob/main/images/screenshots/Mobile%20view.png" width="60%" height="80%" >
 
 ### Built With
 
