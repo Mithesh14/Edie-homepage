@@ -37,7 +37,7 @@
 
 ### Desktop View
 
-![screenshot](https://github.com/Mithesh14/Edie-homepage/blob/main/images/screenshots/Desktop%20view.png)
+<img src="https://github.com/Mithesh14/Edie-homepage/blob/main/images/screenshots/Desktop%20view.png" width="40%">
 
 ### Mobile View
 
